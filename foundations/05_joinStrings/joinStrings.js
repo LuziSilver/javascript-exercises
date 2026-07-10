@@ -9,8 +9,8 @@
  The greeting should read: "Hello! My name is Carlos Stevenson and I am 18 years old."
 */
 
-const firstName = "Carlos";
-const lastName = "Stevenso";
+const firstName = 'Carlos';
+const lastName = 'Stevenson';
 const thisYear = 1965;
 const birthYear = 1947;
 const fullName = firstName + " " + lastName;
