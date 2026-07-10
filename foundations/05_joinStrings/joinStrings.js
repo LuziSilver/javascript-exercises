@@ -16,7 +16,7 @@ const birthYear = 1947;
 const fullName = firstName + " " + lastName;
 const age = thisYear - birthYear;
 
-const greeeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
+const greeeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
 // Add your code right below, good luck!
 
